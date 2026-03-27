@@ -22,7 +22,7 @@ An AI-powered weather assistant that fetches real-time weather data and uses Ope
 
 ## 📸 Demo
 
-![App Screenshot](add-your-image-here.png)
+![App Screenshot](screenshots_weather.png)
 
 ---
 
